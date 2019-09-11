@@ -5,4 +5,4 @@ and how to implement it with **React-Native**.
 
 
 ###### Mobx version ^5.13.0
-###### Forcast Api https://darksky.net **free**
+###### Forcaste Api https://darksky.net **free**
